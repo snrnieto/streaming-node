@@ -1,0 +1,17 @@
+{
+  "name": "streaming-socket",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*",
+    "log": "*"
+  },
+  "description": "Pruebas streaming node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test":"echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Nieto",
+  "license": "ISC"
+}
